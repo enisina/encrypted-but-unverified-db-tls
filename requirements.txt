@@ -1,0 +1,7 @@
+mysql-connector-python==26.10.0
+psycopg==3.3.9
+psycopg-binary==3.3.9
+tzdata==2026.6
+psycopg2-binary==2.9.13
+pg8000==1.31.6
+PyMySQL==1.2.4
